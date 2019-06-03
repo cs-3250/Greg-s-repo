@@ -1,0 +1,86 @@
+''''''-- Greg Dews' Notes--
+
+
+
+6/3/2019
+        5 - 2week sprints
+            everyother day present 1 submit from each team
+    Post everything on repo
+    one notes, file with each name
+    1st test - 5 dys and head first design patterns
+
+    presentation?
+
+    pulled from child's report card, extrapolated into slides
+    Important stuff
+        act confident, secure
+        respect rights and prop. of others
+        works cooperatively with others
+        courteous; respects authority, polite
+        practice self-control
+        accepts responsibility for behavior
+        resolves conflict appropriately
+        exhibits positive attitude toward learning
+            "if it was easy, we wouldn't do it. If it was repetitive, we wouldn't be paid well to do it."
+        participate in class discussions
+        engaged listener
+        follows written and oral directions
+        completes work in a timely manner - this is huge
+            emphasis on procrastination - this career needs 'front loading'
+        works independently
+        responsible for belongings and property
+        asks for help when needed
+        produces neat, accurate, quality work
+            'spelling mistakes? is it pep8 compatable'
+        positive work ethic
+        completes timely, accurate homework
+        uses good organizational skills
+        demonstrates technology skills 
+        uses library media to enhance
+
+    hundreds of tests are needed, documentation
+    in general, in field, 20% of time is spent coding
+    learning multiple languages is crucial
+    "never write searches, trees, linked lists, again"
+    "steal liberally, but cite liberally"
+        in comment add link and description of where each piece was from
+
+    Recommendations from former students:
+        Weekends don't help, manage your time, life always intrudes
+        prove what you did
+        over communicate, tag each sprint at the end - talk about this by end
+        you are too optimistic
+        budget for research, platform shifts, and for process, estimating points is very difficult
+        physical sprint planning meetings are much more useful
+        stay focused on current sprints
+        always build and manually test the app, even if it seems changes in PR(pull request) are minor
+
+    SME's - subject matter experts
+        interact with customer and bring info to team
+
+    Manager - hiring firing, etc.
+    Scrum Master - 
+    Product Owner
+
+    **Require two reviewers to complete a pull request**
+    XP - extreme programming
+        2 people, one keyboard and mouse
+        more knowledgable person driving
+        less knowl. does typing
+
+    Brookes Law - adding more people to a late project makes it later.
+        communication lines add an N^2 problem
+
+    Comments are a bad idea, you should be able to understand your code without explanation
+        refactor the code, make it readable
+        **Method decomposition**
+        if your method has more than 7 functional parts, its too hefty
+
+    user stories from product backlog,   
+    Sprint backlog should have pieces that can be completed in one day
+    definition of done, into doing
+
+    first sprint is done this thursday
+    pep8 - spaces, not tabs, 2 empty spaces between methods, etc.
+
+''''''
