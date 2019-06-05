@@ -84,3 +84,21 @@
     pep8 - spaces, not tabs, 2 empty spaces between methods, etc.
 
 
+6/5/2019
+    Personal note:
+        need to talk with group about github functionality (pull requests)
+    Slides/presentation
+        open source software - influence in areas of interest
+        "The Cathedral and the Bazaar" - closed source software is a cathedral, open is the Bazaar
+        messaging apps - wats app (africa/india), we chat (china)
+            facebook bought watsApp
+        software systems are among the most complex ever created by humans
+        SLOC - source lines of code
+        bugs in code
+            undergrad - every 10 lines of code
+            professional - every 100 lines of code
+            master (in the stride after professional) - every 1000 lines
+        "Use other people's stuff as much as possible"
+            less code writing means less bugs
+        
+        
