@@ -100,5 +100,6 @@
             master (in the stride after professional) - every 1000 lines
         "Use other people's stuff as much as possible"
             less code writing means less bugs
+        The importance of unit testing - Therac machine issues
         
         
