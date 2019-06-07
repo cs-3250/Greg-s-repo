@@ -87,19 +87,79 @@
 6/5/2019
     Personal note:
         need to talk with group about github functionality (pull requests)
+
     Slides/presentation
         open source software - influence in areas of interest
+        
         "The Cathedral and the Bazaar" - closed source software is a cathedral, open is the Bazaar
+        
         messaging apps - wats app (africa/india), we chat (china)
             facebook bought watsApp
+        
         software systems are among the most complex ever created by humans
+        
         SLOC - source lines of code
+        
         bugs in code
             undergrad - every 10 lines of code
             professional - every 100 lines of code
             master (in the stride after professional) - every 1000 lines
+        
         "Use other people's stuff as much as possible"
             less code writing means less bugs
+        
         The importance of unit testing - Therac machine issues
+
+6/6/2019
+    continuing slides
         
+        DIA - 100 PC's 5k electric motors, scanners etc.
+            automated luggage never worked
+            16 months past it's hard deadline
+            cost $560 million over budget
+            Destroyed baggage
+            Was not scalable to size of DIA
         
+        Chaos 1995
+            $250 billion each year on IT application development ~175k projects
+            2.3M for large company
+            31.1% of projects canceled before completion costing $81 billion
+                pay additional $59 billion for completed
+            16.2% for software projects that are completed on-time and on-budget
+                larger businesses ~9% of projects
+            completed projects have 42% of originally proposed features
+            smaller companies do better - 78.4% projects get deployed
+            This study has been done many more times, only change is inflation of dollar amounts
+        
+        Brooks, Fred P.(1986) "No Silver Bullet -- essence and accident in software engineering"
+            "there is no single development in either technology or management technique, which by itself promises even one order of magnitude improvement within a decade of productivity, in reliability, in simplicity"
+            Two types of complexity
+                accidental complexity and essential complexity
+                problems are hard, don't make more complexity in the development
+            Ten fold difference between an ordinary designer and a great one
+        
+        No correlation between what makes a person a good programmer
+        
+        Engineering?
+            Software engineering is the study and application of engineering to the design, development, and maintenance of software
+        
+        Margaret Hamilton
+            Extensive testing
+
+        Terminology *
+            Program Requirements (user stories)
+                statements that define and quantify what the program needs to do
+                not used the same way as "elsewhere" - these are negotiable
+            Functional Requirements
+                What a program needs to do (yes/no)
+            Non-Functional Requirements (could still be needed for FR)
+                manner in which the functional requirements need to be achieved
+                performance, usability, maintainability
+                tend to be on a scale rather than yes/no
+            Design Constraints
+                Platform, language, Database, webapp, GUI, etc.
+6/7/2019
+    Checked slack, moodle, and group drive locations. No sign of customer story information.
+    Tried messaging Lauren Vagts (Customer), no response as of 9am. Probably still on vacation in the wilderness.
+    I plan to update product backlog with David (Scrum Master) and Lauren
+    While I wait, I will play some Zork and get myself caught up from last sprint.
