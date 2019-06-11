@@ -163,3 +163,42 @@
     Tried messaging Lauren Vagts (Customer), no response as of 9am. Probably still on vacation in the wilderness.
     I plan to update product backlog with David (Scrum Master) and Lauren
     While I wait, I will play some Zork and get myself caught up from last sprint.
+
+6/10/19
+    Kat will show local git presentation
+        git init - local repo creation
+        git branch - create new version/copy
+        git add - add file/change to staging areas
+        git merge - merge a branch into target branch
+        git checkout - switch to a branch
+
+    Luke will show diff patch
+        Difference between github and git.
+            github is a server
+        remote repo is any repository not on your computer
+        Branch Protection - github only
+            Pull requests - github only
+                go to branch you want to merge into your master (or otherwise)
+                on github you would make the pull request
+                fetch
+                    grabs all commits but does not merge
+                    only merges from original branch into cloned local
+                pull merges commits from remote to local
+                push merges local commits into remote
+
+    burndown chart
+        at or below green line, manage cards and time better
+
+Scrum meeting (6/10/19)
+    Game build concept: Escape room in mansion?
+    library uses? NetworkX for maze generation, or otherwise
+        if we use any of these, there might be data type differences
+
+    testing mazes (start with input)
+    Matrices?
+    purpose of second story point is to force a design pattern being taught in this class
+    
+    Command interface
+        something to interpret their verbage
+        help command in code - stub for example of how processing can be handled
+        Starting with moving around the maze - Directional 
