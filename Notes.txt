@@ -202,3 +202,65 @@ Scrum meeting (6/10/19)
         something to interpret their verbage
         help command in code - stub for example of how processing can be handled
         Starting with moving around the maze - Directional 
+
+6/12/19
+    Recommend that you play to a language's strengths
+        find what a language was built uppon
+        Python is built upon dictionaries. 
+    Beaty is the manager, not a customer
+
+    Python strengths pertaining to this project
+        Dictionaries are key-value pairs
+            dictionary of dictionaries
+                outer verbs, inner items
+        Allows method references
+            methods are first class objects/values
+            can pass method as a parameter, return it as a result
+                CAN be the value in a dictionary ***
+    
+    Alias's? perhaps same method call in dictionary with multiple keys pointing to it
+        ("move", foo)
+        ("go", foo)
+
+    Presentation time-
+        non-functional requirement
+        
+        Analysis
+            static - non-running code (before it runs - Sonar Cloud, Pylynt, radon, Checkstyle)
+            Dynamic - for running code (Spotbugs -java, Valgrind-c++, Purify)
+                Will be handling dynamic analysis very little, in this semester
+        
+        testing
+            acceptance
+                customer says "does it meet our requirements"
+                BDD - behavior driven development
+            Unit: method
+                TDD - test driven development
+                    write the test before you write the functional
+                    make sure test fails before your write the functionality
+            Integration: class
+                making sure the whole class works properly
+                Selenium? Web testing
+            system
+                Multiple programs interaction and compatability on multiple systems
+        
+        unit tests arguably the most Important
+        
+        Implementation
+            tend to focus on requirements, design, and processes
+            a bad implementation will ruin everything else
+        
+        Language Style Guidelines
+        Naming Guidelines
+        test Guidelines
+            every test has a unit
+            easy to run, run a lot
+        Use libraries as much as possible - and cite it
+
+        Recommends a book "Good to Great"
+            management versus leadership
+            find what makes people unique and how that can be used to make it work - how to reward them
+            leaders look for how everyone is the same. Makes sure the direction of the group is right
+
+        YAGNI - you aint going to need it
+            don't write something that you might need. only write enough to make it work
