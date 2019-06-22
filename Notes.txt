@@ -264,3 +264,14 @@ Scrum meeting (6/10/19)
 
         YAGNI - you aint going to need it
             don't write something that you might need. only write enough to make it work
+
+6/22/2019
+    Sprint Planning meeting
+        Teams decided for different story points
+            Team 1 - CLI
+                Edwin Matt Greg
+            Team 2 - Graphs / maps
+                Dan Derek David
+            Tech lead
+                Casey Jones - Lord of Code
+        
